@@ -34,5 +34,5 @@ de vendas, desenvolvendo ferramentas personalizadas conforme necessidade especí
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-masulli-88659029b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-masulli-dev)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adammasulli.dev@gmail.com)
