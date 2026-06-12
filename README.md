@@ -34,5 +34,5 @@ de vendas, desenvolvendo ferramentas personalizadas conforme necessidade especí
 
 ## Contato
 
-adammasulli.dev@gmail.com
-linkedin.com/sla
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
