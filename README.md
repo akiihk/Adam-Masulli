@@ -1,4 +1,4 @@
-# Olá, eu sou Adam Sandler
+# Olá, eu sou Adam Sandler Cruz Masulli
 
 Sou desenvolvedor Python com foco em automação de processos e desenvolvimento de ferramentas desktop.
 Estudante de Análise e Desenvolvimento de Sistemas, com experiência em projetos sob demanda para clientes reais.
